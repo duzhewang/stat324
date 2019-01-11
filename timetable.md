@@ -43,9 +43,9 @@ css: /css/wide_table.css
 
 ## Distribution tables
 
-- [Z table](https://github.com/dzwang91/stat371/raw/gh-pages/distributiontables/Ztable.pdf   )
-- [T table](https://github.com/dzwang91/stat371/raw/gh-pages/distributiontables/T-table.pdf)
-- [F table](https://github.com/dzwang91/stat371/raw/gh-pages/distributiontables/F-table.pdf)
+- [Z table](https://github.com/dzwang91/stat324/raw/gh-pages/distributiontables/Ztable.pdf   )
+- [T table](https://github.com/dzwang91/stat324/raw/gh-pages/distributiontables/T-table.pdf)
+- [F table](https://github.com/dzwang91/stat324/raw/gh-pages/distributiontables/F-table.pdf)
 
 ## Assignments
 
