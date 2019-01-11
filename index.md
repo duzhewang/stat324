@@ -1,7 +1,7 @@
 ---
 layout: page
-title: STAT 371
-subtitle: Introductory Applied Statistics for the Life Sciences
+title: STAT 324
+subtitle: Introductory Applied Statistics for Engineers
 ---
 
 **NOTE**: This is the course webpage for the Spring 2018 offering of STAT 371, Lecture 3.
