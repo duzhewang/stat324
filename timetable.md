@@ -4,8 +4,6 @@ title: Timetable
 css: /css/wide_table.css
 ---
 
-**Note: You are welcome to use the slides/notes for yourself, for teaching, or for any other noncommercial purpose. If you use extracts from these materials, please make sure that their origin is shown. The author assumes no liability or responsibility for any errors or omissions.**
-
 
 | # | Date | Topic    | Lecture Slides/Notes         |Codes      |Summary Notes  | Announcement| Extra reading |
 |---|--------|--------|----------------|-----------|--------------------|-------------|
