@@ -1,8 +1,8 @@
-# Introductory Applied Statistics for the Life Sciences
+# Introductory Applied Statistics for Engineers
 
-Course website, UW-Madison, Statistics 371, Fall 2017
+Course website, UW-Madison, Statistics 324, Spring 2019
 
-View the course website [here](https://dzwang91.github.io/stat371/).
+View the course website [here](https://dzwang91.github.io/stat324/).
 
 ------------------------------------------------
 
