@@ -41,15 +41,17 @@ css: /css/wide_table.css
 | | May 9, 17:05-19:05pm, Sterling 1310 |Final Exam |         |     |    |  |  |
 
 
+## Distribution tables
+
+- [Z table](https://github.com/dzwang91/stat371/raw/gh-pages/distributiontables/Ztable.pdf   )
+- [T table](https://github.com/dzwang91/stat371/raw/gh-pages/distributiontables/T-table.pdf)
+- [F table](https://github.com/dzwang91/stat371/raw/gh-pages/distributiontables/F-table.pdf)
+
+## Assignments
 
 
 
-
-
-
-
-
-
+## Exams
 
 
 
