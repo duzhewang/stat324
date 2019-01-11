@@ -52,4 +52,6 @@ There will be 8 homework assignments and each homework has 15 points. Check home
 
 **There is no makeup exam**. If you miss the exam, you must provide a justified and documented reason to the instructor. 
 
+## Free tutoring
 
+The Department of Statistics is offering free tutoring for students in Stat 371. See details from [here](https://www.stat.wisc.edu/courses/Tutorial_Schedule). 
