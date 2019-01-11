@@ -4,11 +4,11 @@ title: STAT 324
 subtitle: Introductory Applied Statistics for Engineers
 ---
 
-**NOTE**: This is the course webpage for the Spring 2018 offering of STAT 371, Lecture 3.
+**NOTE**: This is the course webpage for the Spring 2019 offering of STAT 324, Lecture 1.
 
 ## Important dates
 
-- Tuesday 1/23/2018: first lecture
+- Tuesday 1/22/2018: first lecture
 - Thursday 3/1/2018: Midterm 1 in lecture
 - Thursday 4/12/2018: Midterm 2 in lecture
 - Thursday 5/3/2018: last lecture
@@ -16,37 +16,9 @@ subtitle: Introductory Applied Statistics for Engineers
 - Other important dates (e.g. [drop deadline](https://registrar.wisc.edu/fall_deadlines_at_a_glance.htm) )
 
 
-## Topics covered
+## Office hours and locations
 
-This course will provide students in the life sciences with an introduction to modern statistical analysis. Topics include descriptive statistics, probability and random variables, distributions, estimation, one-sample testing and confidence intervals, two-sample inference and analysis of variance. It also introduces and employs the freely-available statistical software [R](https://cran.r-project.org) to explore and analyze data.
-
-For more detailed information, see the course [Syllabus](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/Syllabus.pdf).
-
-## Who / what / where / when
-
-**Lectures**: Tuesday and Thursday, 1-2:15pm, Animal Science 212
-
-**Discussions**:
-
-| Section | Place | Time |
-|---------|-------|------|
-| 331     | Van Hise 494 | W 11-11:50 am |
-| 332     | Education Science 212 | W 1:20-2:10 pm |
-| 333     | Mechanical Engineering 1163 | R 8:50-9:40 am |
-
-**Discussions are optional and start in the first week of classes**. Discussion locations might change through the semester, see your TA's announcement.  Discussion handout will be posted at [LearnUW](https://learnuw.wisc.edu/) before each discussion by the Discussion TA. 
-
-**Teaching staff**:
-
-| Name          | Office Hour        | Office Location | Email           |
-|---------------|--------------------|-----------------|-----------------|
-| [Duzhe Wang](http://pages.cs.wisc.edu/~duzhe/)  | Wednesday 3-4pm  | R1475 MSC | dwang282@wisc.edu |
-| Hao Chen   | Tuesday 9:50-10:50am  |  1335 MSC  | hchen434@wisc.edu   |
-|Muhong Gao|  Wednesday 3-4pm  |   1275 MSC   |mgao55@wisc.edu     |
-| Yuetian Luo  | Thursday 10-11am  | B315 MSC     | yluo86@wisc.edu |
-| Ning Fan  | Monday 12:15-1:15pm   | 1275 MSC     |nfan@wisc.edu   |
-
-
+See the course [Syllabus](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/Syllabus.pdf).
 
 
 ## Prerequisites
@@ -74,13 +46,10 @@ The grading scheme for the course is as follows:
 
 ## Homework
 
-There will be 8 homework assignments and each homework has 15 points. Check homework submission policies from the [syllabus](https://github.com/dzwang91/stat371/raw/gh-pages/lectures/Syllabus.pdf). 
+There will be 8 homework assignments and each homework has 15 points. Check homework submission policies from the [syllabus](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/Syllabus.pdf). 
 
 ## Exams
 
 **There is no makeup exam**. If you miss the exam, you must provide a justified and documented reason to the instructor. 
 
-
-## Q&A
-We will use [Piazza](https://piazza.com/wisc/spring2018/stat37103/home) for course-related questions. 
 
