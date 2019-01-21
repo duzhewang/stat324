@@ -8,11 +8,9 @@ subtitle: Introductory Applied Statistics for Engineers
 
 ## Important dates
 
-- Tuesday 1/23/2018: first lecture
-- Thursday 3/1/2018: Midterm 1 in lecture
-- Thursday 4/12/2018: Midterm 2 in lecture
-- Thursday 5/3/2018: last lecture
-- Wednesday 5/9/2018, 5:05-7:05pm: Final Exam (Location TBA)
+- Thursday 2/28/2018: Midterm 1 in lecture
+- Thursday 4/11/2018: Midterm 2 in lecture
+- Sunday 5/5/2018, 7:25-9:25pm: Final Exam (Location TBA)
 - Other important dates (e.g. [drop deadline](https://registrar.wisc.edu/fall_deadlines_at_a_glance.htm) )
 
 
