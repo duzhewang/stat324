@@ -16,27 +16,27 @@ css: /css/wide_table.css
 |L6| Feb 7 | Estimation | |    |    |      |      |
 |L7| Feb 12 | |   |    |    |    |      |
 |L8| Feb 14 | |     |    |     |      |
-|L9| Feb 19 | QQ plot and CLT | |  |    |  |      |
-|L10| Feb 21 | T distribution, Confidence interval|  |  |    |       |      |
+|L9| Feb 19 |  | |  |    |  |      |
+|L10| Feb 21 | |  |  |    |       |      |
 |L11| Feb 26 | Midterm 1 review |    |     |    |        |      |
 |  | Feb 28 | Midterm 1 |    |   |    |      |      |
-|L12| Mar 5 | Estimation, Part 5 |   |  |     |      |
-|L13| Mar 7 | Part 6 of Estimation: Bootstrap  | | |  |      |      |
-|L14| Mar 12 | Hypothesis testing |   |   |  |      |      |
-|L15| Mar 14 | One sample tests| |   |   |      |      |
-|L16| Mar 19 | One sample tests | |    |      |      |      |
-|L17| Mar 21 | No Lecture |   |       |      |      |      |
-|    | Mar 26 | Spring break, No Lecture  |       |      |      |      |
-|    | Mar 28 | Spring break, No Lecture |       |      |      |      |
-|L18 | Apr 2 | One sample tests, Two sample T-test |  |      | |      |
-|L19 | Apr 4 | The Welch T-test  |    |     | |   |  |
+|L12| Mar 5 |  |   |  |     |      |
+|L13| Mar 7 |   | | |  |      |      |
+|L14| Mar 12 |  |   |   |  |      |      |
+|L15| Mar 14 | | |   |   |      |      |
+| | Mar 19 | Spring break, no lecture | |    |      |      |      |
+| | Mar 21 | Spring break, no lecture |   |       |      |      |      |
+| L16   | Mar 26 |   |       |      |      |      |
+| L17   | Mar 28 |  |       |      |      |      |
+|L18 | Apr 2 |  |  |      | |      |
+|L19 | Apr 4 |   |    |     | |   |  |
 | L20  | Apr 9 | Review|     |      |      |      |
 |  | Apr 11 |Exam 2 |      |     |   |  |  |
-|L21 | Apr 16 | Test for two population proportions, the paited T-test |      |     |  |   |  |
-|L22 | Apr 18 |No Lecture  |  |   |    |  |  |
-|L23 | Apr 23 | Sign test for paired data, ANOVA|  |     |  |  |      |
-| L24 | Apr 25 | ANOVA, Regression|       |  |  |  |  |
-|L25 | Apr 30 | Regression|  |     |   |  |  |
+|L21 | Apr 16 |  |      |     |  |   |  |
+|L22 | Apr 18 | |  |   |    |  |  |
+|L23 | Apr 23 | |  |     |  |  |      |
+| L24 | Apr 25 | |       |  |  |  |  |
+|L25 | Apr 30 | |  |     |   |  |  |
 |L26 | May 2 | Review  |        |     |    |  |  |
 | | May 5  |Final Exam |         |     |    |  |  |
 
