@@ -52,4 +52,14 @@ There will be 8 homework assignments and each homework has 15 points. Check home
 
 ## Free tutoring
 
-The Department of Statistics is offering free tutoring for students in Stat 371. See details from [here](https://www.stat.wisc.edu/courses/Tutorial_Schedule). 
+The Department of Statistics is offering free tutoring for students in Stat 371. See details from this [flyer](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/Flyer.pdf).
+
+
+
+
+
+
+
+
+
+
