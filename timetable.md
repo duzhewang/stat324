@@ -8,12 +8,12 @@ css: /css/wide_table.css
 
 | # | Date | Topic    | Lecture Slides/Notes         |Codes      |Summary Notes  | Announcement| Extra reading |
 |---|--------|--------|----------------|-----------|--------------------|-------------|
-|L1| Jan 22 | Syllabus and introduction  |   |      |   | Check TAs' office hours at the course info page.   |  [What is statistics](https://github.com/dzwang91/stat371/raw/gh-pages/extrareading/what-is-statistics.pdf)     |
-|L2| Jan 24 | Descriptive Statistics  | |   |   |      |     |
-|L3| Jan 29 |Probability, RVs| | |   | |      |
-|L4| Jan 31 |RVs and Distributions  |   |    |    |      |    |
-|L5| Feb 5 | RVs and Distributions |  |  | |   |      |
-|L6| Feb 7 | Estimation | |    |    |      |      |
+|L1| Jan 22 |   |   |      |   | Check TAs' office hours at the course info page.   |  [What is statistics](https://github.com/dzwang91/stat371/raw/gh-pages/extrareading/what-is-statistics.pdf)     |
+|L2| Jan 24 |   | |   |   |      |     |
+|L3| Jan 29 || | |   | |      |
+|L4| Jan 31 |  |   |    |    |      |    |
+|L5| Feb 5 | |  |  | |   |      |
+|L6| Feb 7 |  | |    |    |      |      |
 |L7| Feb 12 | |   |    |    |    |      |
 |L8| Feb 14 | |     |    |     |      |
 |L9| Feb 19 |  | |  |    |  |      |
