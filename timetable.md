@@ -8,7 +8,7 @@ css: /css/wide_table.css
 
 | # | Date | Topic    | Lecture Slides/Notes         |Codes      |Summary Notes  | Announcement| Extra reading |
 |---|--------|--------|----------------|-----------|--------------------|-------------|
-|L1| Jan 22 | Introduction  |[Intro-1](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/stat324intro1.pdf), [Intro-2](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/stat324intro2.pptx),[Intro-3](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/stat324intro3.html)|      |   | Check TAs' office hours at the course info page.   |  [What is statistics](https://github.com/dzwang91/stat371/raw/gh-pages/extrareading/what-is-statistics.pdf)     |
+|L1| Jan 22 | Introduction  |[Intro-1](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/stat324intro1.pdf), [Intro-2](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/stat324intro2.pptx),[Intro-3](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/stat324intro3.pdf)|      |   | Check TAs' office hours at the course info page.   |  [What is statistics](https://github.com/dzwang91/stat371/raw/gh-pages/extrareading/what-is-statistics.pdf)     |
 |L2| Jan 24 |   | |   |   |      |     |
 |L3| Jan 29 || | |   | |      |
 |L4| Jan 31 |  |   |    |    |      |    |
