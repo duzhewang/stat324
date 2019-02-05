@@ -12,7 +12,7 @@ css: /css/wide_table.css
 |L2| Jan 24 | Chapter 2: Descriptive Statistics  |[Slides](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter2.pdf), [Examples](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter2-examples.pptx) | [R code](https://github.com/dzwang91/stat324/raw/gh-pages/R/chapter2R.txt)  | [Chapter 2 Summary](https://github.com/dzwang91/stat324/raw/gh-pages/notessummary/Chapter2notes.pdf) |   HW1 is out, due on 2/1. Download the assignment on the bottom of this page.   |     |
 |L3| Jan 29 |Chapter 3: Probability, Chapter 4 (Part 1): RVs and Distributions| [Chapter 3](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter3.pdf),[Chapter 4, Part 1](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter4-1.pdf), [Chapter 3 Exercise](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/Chapter3exercise.pptx)   | |  [Chapter 3 Summary](https://github.com/dzwang91/stat324/raw/gh-pages/notessummary/Chapter3notes.pdf)   |
 |L4| Jan 31 | cancelled |   |    |    |      |    |
-|L5| Feb 5 |Chapter 4 (Part 2)  |[Chapter 4, Part 2](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter4-2.pdf)|  | |   |      |
+|L5| Feb 5 |Chapter 4 (Part 2)  |[Chapter 4, Part 2](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter4-2.pdf)|  | |  HW2 is out, due on 2/12.  |      |
 |L6| Feb 7 |  | |    |    |      |      |
 |L7| Feb 12 | |   |    |    |    |      |
 |L8| Feb 14 | |     |    |     |      |
