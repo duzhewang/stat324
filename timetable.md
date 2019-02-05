@@ -50,7 +50,9 @@ css: /css/wide_table.css
 -------------------------------------------------------------------------------------------------
 
 ## Assignments
-[HW1](https://github.com/dzwang91/stat324/raw/gh-pages/hw/hw1.pdf) | [HW1key](https://github.com/dzwang91/stat324/raw/gh-pages/hw/hw1key.pdf)
+- [HW1](https://github.com/dzwang91/stat324/raw/gh-pages/hw/hw1.pdf), [HW1key](https://github.com/dzwang91/stat324/raw/gh-pages/hw/hw1key.pdf)
+- [HW2](https://github.com/dzwang91/stat324/raw/gh-pages/hw/hw2.pdf) 
+
 
 --------------------------------------------------------------------------------------------------
 
