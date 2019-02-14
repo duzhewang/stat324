@@ -15,7 +15,7 @@ css: /css/wide_table.css
 |L5| Feb 5 |Chapter 4 (Part 2)  |[Chapter 4, Part 2](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter4-2.pdf)|  | |  HW2 is out, due on 2/12.  |      |
 |L6| Feb 7 | Chapter 4 (Part 3), Chapter 5 (Part 1): Estimation|[Chapter 4, Part 3](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter4-2.pdf), [Chapter 5, Part 1](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter5-1.pdf), [Exercise](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/Chapter4exercise.pdf)| [R code](https://github.com/dzwang91/stat324/raw/gh-pages/R/chapter4R.txt)   |  [Chapter 4 Summary](https://github.com/dzwang91/stat324/raw/gh-pages/notessummary/Chapter4notes.pdf)|      |      |
 |L7| Feb 12 |Chapter 5 (Part 2) | [Chapter 5, Part 2](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter5-2.pdf) |    |    |    |      |
-|L8| Feb 14 | |     |    |     |      |
+|L8| Feb 14 | Chapter 5 (Part 3)| [Chapter 5, Part 3](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter5-3.pdf)    |    |  HW3 is out, due on 2/22.   |      |
 |L9| Feb 19 |  | |  |    |  |      |
 |L10| Feb 21 | |  |  |    |       |      |
 |L11| Feb 26 | Midterm 1 review |    |     |    |        |      |
@@ -51,7 +51,9 @@ css: /css/wide_table.css
 
 ## Assignments
 - [HW1](https://github.com/dzwang91/stat324/raw/gh-pages/hw/hw1.pdf), [HW1key](https://github.com/dzwang91/stat324/raw/gh-pages/hw/hw1key.pdf)
-- [HW2](https://github.com/dzwang91/stat324/raw/gh-pages/hw/hw2.pdf) 
+- [HW2](https://github.com/dzwang91/stat324/raw/gh-pages/hw/hw2.pdf),  [HW2key](https://github.com/dzwang91/stat324/raw/gh-pages/hw/hw2key.pdf)
+- [HW3](https://github.com/dzwang91/stat324/raw/gh-pages/hw/hw3.pdf)
+
 
 
 --------------------------------------------------------------------------------------------------
