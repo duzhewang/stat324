@@ -18,7 +18,7 @@ css: /css/wide_table.css
 |L8| Feb 14 | Chapter 5 (Part 3)| [Chapter 5, Part 3](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter5-3.pdf)    |    |    |  HW3 is out, due on 2/22.    |
 |L9| Feb 19 | Chapter 5 (Part 4) | [Chapter 5, Part 4](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter5-4.pdf)     |    |  |      |
 |L10| Feb 21 | |  |  |    |       |      |
-|L11| Feb 26 | Midterm 1 review |    |     |       |  Midterm 1 will cover all materials through QQ plot and CLT in Part 3 of Chapter 5 |   |
+|L11| Feb 26 | Midterm 1 review |    |     |       |  Midterm 1 will cover all materials through QQ plot and CLT in Part 3 of Chapter 5. Download Midterm 1 practice on the bottom of this page. |   |
 |  | Feb 28 | Midterm 1 |    |   |    |      |      |
 |L12| Mar 5 |  |   |  |     |      |
 |L13| Mar 7 |   | | |  |      |      |
@@ -59,6 +59,11 @@ css: /css/wide_table.css
 --------------------------------------------------------------------------------------------------
 
 ## Exams
+- [Midterm 1](https://github.com/dzwang91/stat324/raw/gh-pages/hw/Midterm1Practice.pdf), 
+
+
+
+
 
 
 
