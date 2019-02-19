@@ -59,7 +59,7 @@ css: /css/wide_table.css
 --------------------------------------------------------------------------------------------------
 
 ## Exams
-- [Midterm 1](https://github.com/dzwang91/stat324/raw/gh-pages/hw/Midterm1Practice.pdf), 
+- [Midterm 1 Practice](https://github.com/dzwang91/stat324/raw/gh-pages/hw/Midterm1Practice.pdf)
 
 
 
