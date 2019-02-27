@@ -49,19 +49,6 @@ css: /css/wide_table.css
 
 -------------------------------------------------------------------------------------------------
 
-## Assignments
-- [HW1](https://github.com/dzwang91/stat324/raw/gh-pages/hw/hw1.pdf), [HW1key](https://github.com/dzwang91/stat324/raw/gh-pages/hw/hw1key.pdf)
-- [HW2](https://github.com/dzwang91/stat324/raw/gh-pages/hw/hw2.pdf),  [HW2key](https://github.com/dzwang91/stat324/raw/gh-pages/hw/hw2key.pdf)
-- [HW3](https://github.com/dzwang91/stat324/raw/gh-pages/hw/hw3.pdf)
-
-
-
---------------------------------------------------------------------------------------------------
-
-## Exams
-- [Midterm 1 Practice](https://github.com/dzwang91/stat324/raw/gh-pages/hw/Midterm1Practice.pdf)
-
-
 
 
 
