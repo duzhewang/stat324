@@ -3,7 +3,7 @@ layout: page
 title: Timetable
 css: /css/wide_table.css
 ---
-
+Homework assignments/solutions, exam/practice exam solutions are at Canvas. 
 
 
 | # | Date | Topic    | Lecture Slides/Notes         |Codes      |Summary Notes  | Announcement| Extra reading |
