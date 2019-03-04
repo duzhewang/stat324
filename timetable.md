@@ -21,7 +21,7 @@ css: /css/wide_table.css
 |L10| Feb 21 |Chapter 5 (Part 5) |[Chapter 5, Part 5](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter5-5.pdf), [Bootstrap extra reading](https://github.com/dzwang91/stat324/raw/gh-pages/notessummary/Bootstrap.pdf)| [Bootstrap R code](https://github.com/dzwang91/stat324/raw/gh-pages/R/Bootstrap.R) | [Chapter 5 Summary](https://github.com/dzwang91/stat324/raw/gh-pages/notessummary/Chapter5notes.pdf)  |       |      |
 |L11| Feb 26 | Midterm 1 review | [Slides](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/Midterm1review.pdf)  |     |       |  Midterm 1 will cover all materials through QQ plot and CLT in Part 3 of Chapter 5. Download Midterm 1 practice on the bottom of this page. |   |
 |  | Feb 28 | Midterm 1 |    |   |    |      |      |
-|L12| Mar 5 |  |   |  |     |      |
+|L12| Mar 5 | Chapter 6: Intro to hypothesis testing | [Chapter 6](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter6.pdf)  |  |     |      |
 |L13| Mar 7 |   | | |  |      |      |
 |L14| Mar 12 |  |   |   |  |      |      |
 |L15| Mar 14 | | |   |   |      |      |
