@@ -22,7 +22,7 @@ css: /css/wide_table.css
 |L11| Feb 26 | Midterm 1 review | [Slides](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/Midterm1review.pdf)  |     |       |  Midterm 1 will cover all materials through QQ plot and CLT in Part 3 of Chapter 5. Download Midterm 1 practice on the bottom of this page. |   |
 |  | Feb 28 | Midterm 1 |    |   |   |  HW4 is out, due on 3/8.    |      |
 |L12| Mar 5 | Chapter 6: Intro to hypothesis testing | [Chapter 6](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter6.pdf)  |  |     |      |
-|L13| Mar 7 |   | | |  |      |      |
+|L13| Mar 7 | Chapter 7 (Part 1): one sample tests  |  [Chapter 7, Part 1](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter7-1.pdf)  |  |      |      |
 |L14| Mar 12 |  |   |   |  |      |      |
 |L15| Mar 14 | | |   |   |      |      |
 | | Mar 19 | Spring break, no lecture | |    |      |      |      |
