@@ -24,7 +24,7 @@ css: /css/wide_table.css
 |L12| Mar 5 | Chapter 6: Intro to hypothesis testing | [Chapter 6](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter6.pdf)  |  |  [Chapter 6 Summary](https://github.com/dzwang91/stat324/raw/gh-pages/notessummary/Chapter6notes.pdf)  |      |
 |L13| Mar 7 | Chapter 7 (Part 1): one sample tests  |  [Chapter 7, Part 1](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter7-1.pdf)  |  |   |   |  [Not Even Scientists Can Easily Explain P-values](https://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/)    |
 |L14| | | |   |   |  Today's lecture is cancelled.    |      |
-|L15| Mar 14 | Chapter 7 (Part 2) | [Chapter 7, Part 2](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter7-2.pdf)  |   |  |      |      |
+|L15| Mar 14 | Chapter 7 (Part 2) | [Chapter 7, Part 2](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter7-2.pdf)  |   |  |   HW5 is out, due on 3/26.   |      |
 | | Mar 19 | Spring break, no lecture | |    |      |      |      |
 | | Mar 21 | Spring break, no lecture |   |       |      |      |      |
 | L16   | Mar 26 |   |       |      |      |      |
