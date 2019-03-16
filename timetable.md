@@ -25,7 +25,7 @@ css: /css/wide_table.css
 |L13| Mar 7 | Chapter 7 (Part 1): one sample tests  |  [Chapter 7, Part 1](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter7-1.pdf)  |  |   |   |  [Not Even Scientists Can Easily Explain P-values](https://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/)    |
 |L14| | | |   |   |  Today's lecture is cancelled.    |      |
 |L15| Mar 14 | Chapter 7 (Part 2) | [Chapter 7, Part 2](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter7-2.pdf)  |   |  |   HW5 is out, due on 3/26.   |      |
-| | Mar 19 | Spring break, no lecture | |    |      |      |      |
+| | Mar 19 | Spring break, no lecture | |    |      |   Happy Spring Break   |      |
 | | Mar 21 | Spring break, no lecture |   |       |      |      |      |
 | L16   | Mar 26 |   |       |      |      |      |
 | L17   | Mar 28 |  |       |      |      |      |
