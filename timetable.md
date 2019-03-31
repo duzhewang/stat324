@@ -28,8 +28,8 @@ css: /css/wide_table.css
 | | Mar 19 | Spring break, no lecture | |    |      |   Happy Spring Break   |      |
 | | Mar 21 | Spring break, no lecture |   |       |      |      |      |
 | L16   | Mar 26 | Chapter 7 (Part 3)  |  [Chapter 7, Part 3](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter7-3.pdf)      |      |  [Chapter 7 Summary](https://github.com/dzwang91/stat324/raw/gh-pages/notessummary/chapter7summary.pdf)    |  HW6 is out, due on 4/2.   |
-| L17 | Mar 28 | Chapter 8 (Part 1): comparing two independent populations | [Chapter 8, Part 1](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter8-1.pdf)        |  [two sample t test R code](https://github.com/dzwang91/stat324/raw/gh-pages/R/twosample.R)    |      |      |
-|L18 | Apr 2 |  |  |      | |      |
+| L17 | Mar 28 | Chapter 8 (Part 1): comparing two independent populations | [Chapter 8, Part 1](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter8-1.pdf)        |  [two sample t test R code](https://github.com/dzwang91/stat324/raw/gh-pages/R/twosample.R)    |     |      |
+|L18 | Apr 2 | Chapter 8 (Part 2) |[Chapter 8, Part 2](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter8-2.pdf) | [Permutation test R code](https://github.com/dzwang91/stat324/raw/gh-pages/R/Permutation.R)       | |      |
 |L19 | Apr 4 |   |    |     | |   |  |
 | L20  | Apr 9 | Review|     |      |      |      |
 |  | Apr 11 |Exam 2 |      |     |   |  |  |
