@@ -31,7 +31,7 @@ css: /css/wide_table.css
 | L17 | Mar 28 | Chapter 8 (Part 1): comparing two independent populations | [Chapter 8, Part 1](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter8-1.pdf)        |  [two sample t test R code](https://github.com/dzwang91/stat324/raw/gh-pages/R/twosample.R)    |     |      |
 |L18 | Apr 2 | Chapter 8 (Part 2) |[Chapter 8, Part 2](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter8-2.pdf) | [Permutation test R code](https://github.com/dzwang91/stat324/raw/gh-pages/R/permutation.R)  |[Chapter 8 Summary](https://github.com/dzwang91/stat324/raw/gh-pages/notessummary/Chapter8notes.pdf)|      |
 |L19 | Apr 4 | Chapter 9: comparing two paired populations | [Chapter 9](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter9.pdf)   |  [Paired t test R code](https://github.com/dzwang91/stat324/raw/gh-pages/R/paired.R)  |[Chapter 9 Summary](https://github.com/dzwang91/stat324/raw/gh-pages/notessummary/Chapter9notes.pdf)|   |  |
-| L20  | Apr 9 | Review|     |      |   |  Midterm 2 covers L8 to L18.    |
+| L20  | Apr 9 | Review| [Midterm 2 Review](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/Midterm2review.pdf)    |      |   |  Midterm 2 covers L8 to L18.    |
 |  | Apr 11 |Exam 2 |      |     |   |  |  |
 |L21 | Apr 16 |  |      |     |  |   |  |
 |L22 | Apr 18 | |  |   |    |  |  |
