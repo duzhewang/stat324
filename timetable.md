@@ -33,7 +33,7 @@ css: /css/wide_table.css
 |L19 | Apr 4 | Chapter 9: comparing two paired populations | [Chapter 9](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter9.pdf)   |  [Paired t test R code](https://github.com/dzwang91/stat324/raw/gh-pages/R/paired.R)  |[Chapter 9 Summary](https://github.com/dzwang91/stat324/raw/gh-pages/notessummary/Chapter9notes.pdf)|   |  |
 | L20  | Apr 9 | Review| [Midterm 2 Review](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/Midterm2review.pdf)    |      |   |  Midterm 2 covers L8 to L18.    |
 |  | Apr 11 |Exam 2 |      |     |   |  |  |
-|L21 | Apr 16 |  |      |     |  |   |  |
+|L21 | Apr 16 | Chapter 10: comparing multiple independent populations |   [Chapter 10](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter10.pdf),   [ANOVA in R](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/ANOVAinR.pdf)|  [ANOVA R code](https://github.com/dzwang91/stat324/raw/gh-pages/R/anova.R)   |  |   |Download F table from Canvas.  |
 |L22 | Apr 18 | |  |   |    |  |  |
 |L23 | Apr 23 | |  |     |  |  |      |
 | L24 | Apr 25 | |       |  |  |  |  |
