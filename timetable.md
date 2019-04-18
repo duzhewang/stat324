@@ -35,11 +35,11 @@ css: /css/wide_table.css
 |  | Apr 11 |Exam 2 |      |     |   |  |  |
 |L21 | Apr 16 | Chapter 10 (Part 1): comparing multiple independent populations |   [Chapter 10](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter10.pdf),   [ANOVA in R](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/ANOVAinR.pdf)|  [ANOVA R code](https://github.com/dzwang91/stat324/raw/gh-pages/R/anova.R)   |  |Download F table from Canvas. HW7 is out, due on 4/23. |  |
 |L22 | Apr 18 |Chapter 10 (Part 2), Chapter 11 (Part 1): Linear regression |[Chapter 11 Part 1](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter11-1.pdf)|   |    |  | [Introduction to statistical learning](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/introSL.pdf)|
-|L23 | Apr 23 | |  |     |  |  |      |
-| L24 | Apr 25 | |       |  |  |  |  |
-|L25 | Apr 30 | |  |     |   |  |  |
+|L23 | Apr 23 | Chapter 11 (Part 2)|  |     |  |  |      |
+| L24 | Apr 25 |Chapter 11 (Part 3) |       |  |  |  |  |
+|L25 | Apr 30 |Cancelled |  |     |   |  |  |
 |L26 | May 2 | Review  |        |     |    |  |  |
-| | May 5  |Final Exam |         |     |    |  |  |
+| | May 5, 7:25-9:25pm  |Final Exam |         |     |    | Please check out your final exam room at Canvas.  |  |
 
 -----------------------------------------------------------------------------------------------
 ## Distribution tables
