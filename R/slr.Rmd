@@ -1,0 +1,135 @@
+---
+title: "STAT324 Lab: Simple linear regression "
+date: "4/22/2019"
+output: html_document
+---
+# Extra reading: Section 3.6.1 and 3.6.2 of ISLR
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load packages
+We will use ISLR and MASS packages. 
+
+```{r}
+#install.packages("ISLR")
+#install.package("dplyr")
+#install.packages("GGally")
+#install.package("ggplot2")
+library(MASS)
+library(dplyr)
+library(ISLR)
+library(GGally)
+library(ggplot2)
+```
+
+## Boston data set
+The **MASS** package library contains the Boston data set, which records the median house value for 506 neighborhoods around Boston. 
+```{r}
+head(Boston)
+```
+
+```{r}
+names(Boston)
+```
+
+```{r}
+glimpse(Boston)
+```
+
+```{r}
+summary(Boston)
+```
+
+
+
+## Plot scatterplots to explore relationships
+```{r}
+ggpairs(Boston[,c("medv", "age", "rm", "lstat")], alpha=0.1)
+```
+
+
+* We can see there is an **inverse** relationship between **medv** (medium house value) and **lstat** (percent of households with low socioeconomic status). That is, when the median value of houses in the neighborhood increases, there is a corresponding drop in the percentage of households with low socioeconomic status.
+
+* We can also see the **positive** relationship between **medv** and **rm** (average number of rooms per house )
+
+
+
+## lstat vs. medv
+
+```{r}
+ggplot(Boston, aes(x=medv, y=lstat)) +
+  geom_jitter(alpha=0.7) +
+  labs(x="Median value of homes", y="% homes with low socioeconomic status")
+```
+
+## rm vs. medv
+```{r}
+ggplot(Boston, aes(x=medv, y=rm)) +
+  geom_jitter(alpha=0.7) +
+  labs(x="Median value of homes", y="Avg house room number")
+```
+
+## Simple linear regression
+Now let's start building the simple linear regression. First we try regressing medv on lstat. 
+
+```{r}
+fit <- lm(medv ~ lstat, data=Boston)
+summary(fit)
+```
+
+
+$95\%$ Confidence interval: 
+
+```{r}
+confint(fit)
+```
+
+Conclusions:
+
+* From the output, we can see that both parameter estimates are significant, since P-values < 0.05. 
+
+* Additionally, the slope parameter is greater than 0 and the confidence intervals for the slope paramter do not cross 0, suggesting a significant relationship between lstat and medv.
+
+* In fact, the slope is 9.102 which suggests that each additional room changes the median value of the house by $9,102.
+
+Regression line: 
+
+```{r}
+intercept <- coef(fit)[1]
+slope <- coef(fit)[2]
+ggplot(Boston, aes(x=lstat, y=medv)) +
+  geom_point(position=position_jitter(), alpha=0.6) + 
+  geom_abline(intercept=intercept, slope=slope, col="red")
+```
+
+
+
+## Check assumptions
+
+We need check assumptions about our model such as equal variance by plotting the residuals. 
+
+```{r}
+par(mfrow=c(2,2))
+plot(fit)
+```
+
+
+## Prediciton
+
+We can make predictions using the predict() function. In this example we will predict the median value of houses in a neighborhood given specific values of lstat. 
+
+```{r}
+# Create a dataframe containing houses with various lstat
+new_data <- data.frame(lstat=c(8, 9, 10, 15, 20, 30))
+
+# Return predictions 
+predict(fit, new_data)
+```
+
+
+
+
+
+
