@@ -4,7 +4,7 @@ title: Timetable
 css: /css/wide_table.css
 ---
 
-**Homework assignments/solutions, exam/practice exam solutions are at Canvas.** 
+**Note: You are welcome to use the slides for yourself, for teaching, or for any other noncommercial purpose. If you use extracts from these materials, please make sure that their origin is shown and let the author know. The author assumes no liability or responsibility for any errors or omissions.**
 
 
 | # | Date | Topic    | Lecture Slides/Notes         |Codes      |Summary Notes  | Announcement| Extra reading |
