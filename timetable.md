@@ -38,7 +38,7 @@ css: /css/wide_table.css
 |L23 | Apr 23 | Chapter 11 (Part 2)|[Chapter 11 Part 2](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/chapter11-2.pdf)|     |  | HW8 is out, due on 5/2. Download at Canvas. | [Extra slides on linear regression](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/extraLRslides.pdf)    |
 | L24 | Apr 25 |Chapter 11 (Part 3) | [Lab: simple linear regression](https://github.com/dzwang91/stat324/raw/gh-pages/R/slr.html) (download this html file to read the material.)    |[Simple linear regression R code](https://github.com/dzwang91/stat324/raw/gh-pages/R/slr.Rmd)|[Chapter 11 Summary](https://github.com/dzwang91/stat324/raw/gh-pages/notessummary/chapter11notes.pdf)|  |  |
 |L25 | Apr 30 |Cancelled |  |     |   |  |  |
-|L26 | May 2 | Review  |        |     |    |  |  |
+|L26 | May 2 | Review  | [Final review slides](https://github.com/dzwang91/stat324/raw/gh-pages/lectures/finalreview.pdf)      |     |    |  |  |
 | | May 5, 7:25-9:25pm  |Final Exam |         |     |    | **Please check out your final exam room at Canvas.**  |  |
 
 -----------------------------------------------------------------------------------------------
